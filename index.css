@@ -20,7 +20,7 @@ body {
   font-weight: 700;
   background:hsl(0, 0%, 12%);
 }
-@media (min-width: 376px){
+@media (min-width: 391px){
   .bodyContainer{
     margin: 20vh 30vw;
   }
